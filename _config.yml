@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Melissa Gentry"
+title                    : "Austyn West"
 title_separator          : "-"
-name                     : &name "Melissa Gentry"
-description              : &description "Fifth year Economics PhD candidate at Texas A&M University"
-url                      : https://melissa-gentry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Austyn West"
+description              : &description "Second Year Economics PhD candidate at Texas A&M University"
+url                      : https://austynwest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "melissa-gentry/melissa-gentry.github.io"
+repository               : "austynwest/austynwest.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ google_analytics: G-RED1NNWZDE
 
 # Site Author
 author:
-  name             : "Melissa Gentry"
-  avatar           : "Gentry_Headshot.jpg"
-  bio              : "Fifth year Economics PhD Candidate at Texas A&M University"
+  name             : "Austyn West"
+  avatar           : 
+  bio              : "Second Year Economics PhD Candidate at Texas A&M University"
   location         : "College Station, TX"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=NTGLEFIAAAAJ&hl=en"
-  email            : "mdgentry@tamu.edu"
+  googlescholar    : 
+  email            : "atwest2@tamu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "mdgentry"
-  orcid            : "https://orcid.org/0000-0002-5517-7888"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -221,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
