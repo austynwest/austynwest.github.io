@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Austyn West"
 title_separator          : "-"
 name                     : &name "Austyn West"
-description              : &description "Second Year Economics PhD candidate at Texas A&M University"
+description              : &description "Second Year Economics PhD Student at Texas A&M University"
 url                      : https://austynwest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austynwest/austynwest.github.io"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/austyn-west/"
   orcid            : 
   pinterest        :
   soundcloud       :
