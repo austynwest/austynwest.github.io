@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I'm a second year economics PhD student at Texas A&M University
+Howdy! I'm a third year economics PhD student at Texas A&M University
 
 <br/><br/>
 
-My research interests are Industrial Organization and Health Economics. 
+My research interests are Industrial Organization and the Economics of Education. 
 
 <br/><br/>
 
